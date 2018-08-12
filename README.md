@@ -40,4 +40,4 @@ Windows10 64bit&Office 2016
     - issue欄
     - Twitter：@makky12
     - メール：suzukima@belltreesoft.jp
-    <br><br>
+    <br>
