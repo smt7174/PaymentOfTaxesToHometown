@@ -30,6 +30,6 @@ Windows10 64bit&Office 2016
 - このツール(二次製作物も含めた)使用によるいかなる被害に対しても、作者は一切の責任を負いかねます。<br><br>
 - 何かありましたら、下記いずれかにご連絡ください。
     - issue欄
-    - Twitter：@makky12
+    - Twitter：[@makky12](https://twitter.com/makky12)
     - メール：suzukima@belltreesoft.jp
     <br>
